@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  margin: 25px 0;
+}
+
+img,
+h3,
+h4,
+p,
+ul,
+ol {
+  margin-left: 15px;
+  margin-bottom: 25px;
+}
